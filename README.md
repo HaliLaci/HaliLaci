@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 <!--
 **HaliLaci/HaliLaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# IOT Portfolio
+
+## 🔴 Node-RED
+- [Priter Monitor](https://github.com/HaliLaci/node-red-snmp-printer-monitor)
