@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 # IOT Portfolio
 
 ## 🔴 Node-RED
-- [Priter Monitor](https://github.com/HaliLaci/node-red-snmp-printer-monitor)
+- [Printer Monitor](https://github.com/HaliLaci/node-red-snmp-printer-monitor)
