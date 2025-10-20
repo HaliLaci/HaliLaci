@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 
 ## 🔴 Node-RED
 - [Printer Monitor](https://github.com/HaliLaci/node-red-snmp-printer-monitor)
+- [Weather Station](https://github.com/HaliLaci/nodered-weather-station)
